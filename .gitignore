@@ -4,3 +4,4 @@ results
 .ipynb_checkpoints
 .virtual_documents
 datasets
+requirements.txt
